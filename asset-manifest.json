@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//bspldelivery.github.io/samplegithub/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/https//bspldelivery.github.io/samplegithub/static/js/main.68fb2c3a.chunk.js",
+    "main.js.map": "/https//bspldelivery.github.io/samplegithub/static/js/main.68fb2c3a.chunk.js.map",
+    "runtime-main.js": "/https//bspldelivery.github.io/samplegithub/static/js/runtime-main.7fce259f.js",
+    "runtime-main.js.map": "/https//bspldelivery.github.io/samplegithub/static/js/runtime-main.7fce259f.js.map",
+    "static/js/2.4368105c.chunk.js": "/https//bspldelivery.github.io/samplegithub/static/js/2.4368105c.chunk.js",
+    "static/js/2.4368105c.chunk.js.map": "/https//bspldelivery.github.io/samplegithub/static/js/2.4368105c.chunk.js.map",
+    "static/js/3.74a7fdfb.chunk.js": "/https//bspldelivery.github.io/samplegithub/static/js/3.74a7fdfb.chunk.js",
+    "static/js/3.74a7fdfb.chunk.js.map": "/https//bspldelivery.github.io/samplegithub/static/js/3.74a7fdfb.chunk.js.map",
+    "index.html": "/https//bspldelivery.github.io/samplegithub/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/https//bspldelivery.github.io/samplegithub/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4368105c.chunk.js.LICENSE.txt": "/https//bspldelivery.github.io/samplegithub/static/js/2.4368105c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/https//bspldelivery.github.io/samplegithub/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fce259f.js",
+    "static/js/2.4368105c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.68fb2c3a.chunk.js"
+  ]
+}
