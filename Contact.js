@@ -6,6 +6,10 @@ const Contact = () => {
           <h1>Contact US</h1>
           <p>Contact US page body content</p>
        </div>
+     <div>
+          <h1>About US</h1>
+          <p>Contact US page body content</p>
+       </div>
     );
 }
  
