@@ -30,6 +30,11 @@ render(){
             src={Logo}
             alt="logo"
           />
+ <div style={{ marginLeft: 505}} >
+          <img
+            src={Logo}
+            alt="logo"
+          />
 
         </div>
 
